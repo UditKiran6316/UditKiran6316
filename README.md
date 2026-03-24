@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I am Udit Kiran  👋
 
 🚀 About Me:
 
@@ -16,6 +16,6 @@ Core Concepts: Robotics, AI Search Algorithms, Classical & Quantum Physics, Digi
 
 📫 Let's Connect:
 
-LinkedIn: [Link to your LinkedIn profile]
+LinkedIn: www.linkedin.com/in/udit-kiran-649241373
 
-Email: [Your Email Address]
+Email: kiranudit6316@gmail.com
